@@ -1,0 +1,90 @@
+section.experience {
+  background-color: #f8f9fa;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+section.experience h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.experience-item {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  margin-bottom: 20px;
+  transition: box-shadow 0.3s ease, transform 0.3s ease; /* Transición suave */
+}
+
+.experience-item:hover {
+  /* Resplandor amarillo brillante y con mayor intensidad */
+  box-shadow: 0 0 30px rgba(31, 240, 240, 0.836); /* Intensidad máxima del resplandor amarillo */
+  transform: scale(1.05); /* Hace que el cuadro se agrande ligeramente */
+}
+
+.experience-item h5 {
+  font-size: 1.5rem;
+  color: #df5864; /* Color llamativo para los títulos */
+  margin-bottom: 10px;
+}
+
+.experience-item p {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.experience-item ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.experience-item ul li {
+  font-size: 1rem;
+  color: #444;
+}
+
+.experience-item ul li strong {
+  color: #df5864; /* Resalta los nombres de las tareas y roles */
+}
+
+/* Estilo para las imágenes en la sección de voluntariado */
+.experience-img-group {
+  display: flex;
+  gap: 20px; /* Espacio entre las imágenes */
+  justify-content: center; /* Centra las imágenes */
+  margin: 20px 0;
+}
+
+.experience-img-large {
+  width: 200px;  /* Tamaño grande para las imágenes */
+  height: 200px; /* Mantiene el tamaño cuadrado */
+  border-radius: 8px;  /* Bordes redondeados */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+/* Estilo de la nueva sección de "Actividades fuera de la clínica" */
+.experience-item h6 {
+  font-size: 1.4rem;
+  color: #333;
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+.experience-item p {
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.experience-item ul {
+  margin-top: 10px;
+}
+
+.experience-item ul li {
+  font-size: 1rem;
+  color: #444;
+}

@@ -1,0 +1,47 @@
+.education {
+  background-color: #f8f9fa;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.education h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.education-item {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra inicial */
+  margin-bottom: 20px;
+  transition: box-shadow 0.3s ease, transform 0.3s ease; /* Transición suave */
+}
+
+.education-item:hover {
+  box-shadow: 0 0 20px rgba(31, 240, 240, 0.836); /* Sombra brillante amarilla al pasar el mouse */
+  transform: scale(1.05); /* Hace que el cuadro se agrande ligeramente */
+}
+
+.education-item h4 {
+  font-size: 1.8rem;
+  color: #df5864;
+  margin-bottom: 15px;
+}
+
+.education-item ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.education-item ul li {
+  font-size: 1.2rem;
+  color: #df5864;
+  margin-bottom: 10px;
+}
+
+.education-item ul li strong {
+  color: #151515; /* Color de los nombres de los centros educativos */
+}

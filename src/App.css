@@ -1,0 +1,53 @@
+/* Estilos Globales */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #e15151;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Estilo para las secciones */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.mt-5 {
+  margin-top: 50px;
+}
+
+/* Diseño de la aplicación */
+.App {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 30px;
+}
+
+/* Diseño del footer o pie de página */
+footer {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Asegurar que todas las imágenes tengan bordes redondeados y no se salgan de su contenedor */
+img {
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Asegurar que las secciones tengan un buen espaciado */
+section {
+  margin-bottom: 50px;
+}
