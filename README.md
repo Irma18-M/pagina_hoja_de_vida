@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Hoja de Vida Personal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descripción
 
-## Available Scripts
+Este proyecto es una página web personal que representa mi hoja de vida profesional. La página incluye secciones como:
 
-In the project directory, you can run:
+- Información personal (nombre completo, fotografía, contacto).
+- Objetivo profesional o perfil personal.
+- Formación académica.
+- Experiencia laboral (real o simulada).
+- Habilidades técnicas (lenguajes, herramientas, frameworks).
+- Portafolio o proyectos realizados (opcional, pero recomendado).
+- Sección de contacto.
 
-### `npm start`
+## Tecnologías utilizadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **HTML5**: Para la estructura de la página web.
+- **CSS3**: Para el diseño y la estilización, haciendo uso de **diseño responsivo** para dispositivos móviles y de escritorio.
+- **JavaScript**: Para la **interactividad** de la página, como validación de formularios y animaciones.
+- **Bootstrap 5**: Para facilitar el **diseño responsivo** y el uso de componentes modernos (como cards, grid, navbar, etc.).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Instrucciones para clonar, ejecutar y publicar el proyecto
 
-### `npm test`
+### Clonar el repositorio
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Para clonar este repositorio a tu máquina local, abre la terminal y usa el siguiente comando:
 
-### `npm run build`
+```bash
+git clone https://github.com/Irma18-M/pagina_hoja_de_vida.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+###Link para acceder a la Pagina:
+https://portafolioirma.netlify.app/ 
